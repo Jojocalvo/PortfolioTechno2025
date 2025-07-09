@@ -1,6 +1,8 @@
 {
   "dependencies": {
+    "be.elab.tickcollection": "https://github.com/EloiStree/OpenUPM_TickCollection.git",
     "be.technocite.artteamxrbox": "https://github.com/AmbroiseCorentin/2025_05_15_ArtTechnoXR.git",
+    "be.technocite.diaporamaxr": "https://github.com/Jojocalvo/2025_07_09_DiaporamaXR.git",
     "com.meta.xr.sdk.all": "77.0.0",
     "com.unity.ai.navigation": "2.0.6",
     "com.unity.collab-proxy": "2.8.2",

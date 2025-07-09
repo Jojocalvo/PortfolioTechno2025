@@ -6,9 +6,43 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/_Projet/Scene/MainScene.unity
+    guid: 2c4cc2c997e80dd489dfd254e0979047
+  - enabled: 1
+    path: Packages/be.technocite.artteamxrbox/BARONHEID_THIBAUT/SCENES/TORTUREUNIVERSE_02.unity
+    guid: bc0e7b416774b9c4a8cc48f3b048e472
+  - enabled: 1
+    path: Packages/be.technocite.artteamxrbox/COPPENS_MICHAEL/SCENES/S_Medievial_Isometric.unity
+    guid: 14dc154dc58ef1445877eda98f576e2f
+  - enabled: 1
+    path: Packages/be.technocite.artteamxrbox/COPPENS_MICHAEL/SCENES/S_Portfolio.unity
+    guid: 8164ec602a8a69745b2924ec2f954ae2
+  - enabled: 1
+    path: Packages/be.technocite.artteamxrbox/DECASTILLON_MANU/SCENES/Tuscany.unity
+    guid: 973efacb9d4415b4d9c73886d69f6b4d
+  - enabled: 1
+    path: Packages/be.technocite.artteamxrbox/DEGHISLAGE_DAVID/SCENE/GuitarWorkshop.unity
+    guid: b97c0465fabf487428bfcb496a03e6be
+  - enabled: 1
+    path: Packages/be.technocite.artteamxrbox/HORNEZ_FLORIANE/SCENES/S_Teenage_Room.unity
+    guid: 16edc4f2b457d464db7ce3acb770faee
+  - enabled: 1
+    path: Packages/be.technocite.artteamxrbox/HUA_SYLVAIN/SCENES/TEST.unity
+    guid: 3b758b1237963fe44bfaa2ec7515bb1e
+  - enabled: 1
+    path: Packages/be.technocite.artteamxrbox/LHOMME_GEOFFREY/SCENES/S_GokuHouse.unity
+    guid: 3d690f265d4399e4dbe6dbc5fe8771d4
+  - enabled: 1
+    path: Packages/be.technocite.artteamxrbox/MOREAU_CELINE/SCENES/S_Harbor.unity
+    guid: 9186b862ce8d29a4390275ffdd4fbb86
+  - enabled: 1
+    path: Packages/be.technocite.artteamxrbox/PARLAGRECO_BAPTISTE/SCENES/BoudoirRoom.unity
+    guid: 151f8fb1588fd9746a0dab3cd3d6f6f8
+  - enabled: 1
+    path: Packages/be.technocite.artteamxrbox/VANHASSEL_CLARA/SCENES/VANHASSEL_CLARA_Bedroom.unity
+    guid: 1640f68b8d9d11240a8ca860f0a9b2ca
   m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 19fa33d1280254f47ae6824d291a9ebb, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0899095ce3e937a43843a952c5b2d9c2, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 1d0624a7839c9d446a29dda7dc7ed4c6, type: 2}
