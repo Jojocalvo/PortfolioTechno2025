@@ -12,14 +12,14 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "1179b5d0e32c4815e8e40df35f819f10c442f031"
+      "hash": "2bdce3fd5e65a2a3705f661037da58e0ef1d6b74"
     },
     "be.technocite.diaporamaxr": {
       "version": "https://github.com/Jojocalvo/2025_07_09_DiaporamaXR.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "c33ff353c5d69c9349fe581423199f081b17432f"
+      "hash": "b30534f2dbdbd0e01cb08f5fed8a42f5926e5d9e"
     },
     "com.meta.xr.mrutilitykit": {
       "version": "77.0.0",

@@ -15,9 +15,6 @@ EditorBuildSettings:
     path: Packages/be.technocite.artteamxrbox/COPPENS_MICHAEL/SCENES/S_Medievial_Isometric.unity
     guid: 14dc154dc58ef1445877eda98f576e2f
   - enabled: 1
-    path: Packages/be.technocite.artteamxrbox/COPPENS_MICHAEL/SCENES/S_Portfolio.unity
-    guid: 8164ec602a8a69745b2924ec2f954ae2
-  - enabled: 1
     path: Packages/be.technocite.artteamxrbox/DECASTILLON_MANU/SCENES/Tuscany.unity
     guid: 973efacb9d4415b4d9c73886d69f6b4d
   - enabled: 1
